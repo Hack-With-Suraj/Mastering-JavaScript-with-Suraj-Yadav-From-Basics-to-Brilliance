@@ -8,9 +8,9 @@ In our book, we take you on a journey through the world of JavaScript: its core 
 For you, that means no developer really sets out to write poor code as much as how one refuses the delight of programming. Yet, without the proper understanding of JavaScript, most developers dig a hole leading to unsustainable codebases. This book is designed to help you navigate through the complexities in a manner that will allow you not only avoid these pitfalls, but also learn and master this language with greater satisfaction and accomplishment on your coding adventure.
 Think of this book as a guide that will help you on your journey to master JavaScript, with the tools and insights that we need in order to overcome any obstacles lying ahead and make all the goodness coding in JavaScript has. Whether you are working on a new project, solving tough algorithms or just trying to optimize your web applications the insights shared in this book provide valuable tips that will help both advance your skills as well as empower all of your projects.
 
-[1. introduction]() <br/>
+### [1. introduction]() <br/>
 [1.1 The History and Evolution of JavaScript](./01_introduction/1.1_The_History_and_Evolution_of_%20JS.md) <br/>
-[1.2 How Important is JavaScript in Web Development?](./01_introduction/1.2_How_Important_is_JavaScript%20in_Web_Development.md)
-
-
+[1.2 How Important is JavaScript in Web Development?](./01_introduction/1.2_How_Important_is_JavaScript%20in_Web_Development.md) <br/>
+[1.3 Setting up your environment](./1.3_Setting_up_your_environment.md)
+[Practice Questions](./Practice_Questions.md)
 
